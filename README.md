@@ -1,6 +1,6 @@
 # Lab 4 Starter Templates — Distributed Transactions (2PC / 3PC) (Python)
 
-Minimal EC2-friendly templates (standard library only).
+##Alikhan Kassymbekov IT2307
 
 ## Files
 - `coordinator.py`
